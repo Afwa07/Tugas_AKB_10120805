@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Rekomendasi Restoran</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="judul_1">JUDUL 1</string>
+    <string name="judul_2">JUDUL 2</string>
+    <string name="judul_3">JUDUL 3</string>
+
+    <string name="desk_1">BLUE</string>
+    <string name="desk_2">ELMO</string>
+    <string name="desk_3">KAWS</string>
+    <string name="google_maps_api_key">AIzaSyAXt_Y6fp4tWobUbmjRYb9PrGxqeCcuKjI</string>
+
+</resources>
